@@ -1,5 +1,4 @@
-# goit-algo-fp
-Final project Basic algorithms and Data Structures
+# goit-algo-fp Final project Basic algorithms and Data Structures
 
 ## Завдання 7. Використання методу Монте-Карло
 
